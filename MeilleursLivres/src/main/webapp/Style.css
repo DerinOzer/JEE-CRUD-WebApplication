@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+h1, h2, form{
+	text-align: center;
+}
+
+h1{
+	color: blue;
+}
+
+label{
+	display: inline-block;
+	width: 120px;
+	text-align: left;
+}

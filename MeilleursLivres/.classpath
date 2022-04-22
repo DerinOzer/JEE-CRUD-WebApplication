@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/aopalliance-repackaged-2.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/byte-buddy-1.12.7.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/hibernate-core-5.6.5.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/hk2-api-2.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/hk2-locator-2.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/hk2-utils-2.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jakarta.annotation-api-1.3.5.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jakarta.inject-2.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jakarta.json-1.1.6-module.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jakarta.json-1.1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jakarta.json-api-1.1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jakarta.json.bind-api-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jakarta.persistence-api-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jakarta.servlet-api-4.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jakarta.validation-api-2.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jakarta.ws.rs-api-2.1.6-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jakarta.ws.rs-api-2.1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jandex-2.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/javassist-3.25.0-GA.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jaxb-api-2.2.11.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jaxb-core-2.2.11.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jaxb-impl-2.2.11.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jboss-logging-3.4.3.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/org.osgi.core-6.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/osgi-resource-locator-1.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/txw2-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/Libraries/yasson-1.0.9.jar"/>
+	<classpathentry kind="lib" path="/Users/derin/eclipse-workspace-EE/IMDb/src/main/webapp/WEB-INF/lib/hibernate-entitymanager-5.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="Libraries/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="Libraries/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
